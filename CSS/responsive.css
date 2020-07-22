@@ -1,0 +1,11 @@
+@media screen and (max-width: 440px) {
+    .manage-cart .media img{
+        width: 160px;
+      }
+      .manage-cart{
+          margin-left:5px !important;
+          margin-right:5px !important;
+
+      }
+  }
+  /* Manage Cart */
